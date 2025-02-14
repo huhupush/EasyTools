@@ -2,7 +2,7 @@
 
 # 设置虚拟环境目录
 VENV_DIR="venv"
-PYTHON_VERSION="3.8"  # 指定 Python 版本
+PYTHON_VERSION="3.13"  # 指定 Python 版本
 
 # 检查 Python 环境
 if ! command -v python${PYTHON_VERSION} &> /dev/null; then
